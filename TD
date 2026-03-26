@@ -1,0 +1,147 @@
+<h1 style=text-align:ceter;font-family:sans-serif;color:#333;>
+
+ Emploi du temps IAIL-S2-(2025\2026)
+
+ </h1>
+
+<table border="1" style="width:100%; text-align:center; border-collapse: collapse;">
+
+  <tr style="background-color: #eee;">
+
+    <th style="background:20px;">اليوم / الوقت</th>
+
+    <th>9h - 10h30</th>
+
+    <th>10h30 - 12h</th>
+
+    <th>12h15 - 13h45</th>
+
+    <th>13h45 - 15h15</th>
+
+    <th>15h30 - 17h</th>
+
+    <th>17h - 18h30</th>
+
+  </tr>
+
+  
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الاثنين</b></td>
+
+    <td>Python 2 (Cours)</td>
+
+    <td>Prog C 2 (Cours)</td>
+
+    <td>*</td>
+
+    <td>Prog C 2 (Grp1)</td>
+
+    <td>Python 2 (Grp3)</td>
+
+    <td>Python 2 (Grp2)</td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الثلاثاء</b></td>
+
+    <td>Python 2 (Grp1)</td>
+
+    <td>*</td>
+
+    <td>Digital Skills (Cours)</td>
+
+    <td>Digital Skills (TD)</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الأربعاء</b></td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>Prog C 2 (Grp2)</td>
+
+    <td>Algèbre 2 (TD)</td>
+
+    <td>Analyse 2 (TD)</td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الخميس</b></td>
+
+    <td>Signal (Cours)</td>
+
+    <td>Signal (TD)</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الجمعة</b></td>
+
+    <td>Algèbre 2 (Cours)</td>
+
+    <td>Analyse 2 (Cours)</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+  </tr>
+
+
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>السبت</b></td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>*</td>
+
+    <td>Web 1 (G2)</td>
+
+    <td>Web 1 (Cours)</td>
+
+    <td>Web 1 (G1)</td>
+
+  </tr>
+
+</table>
